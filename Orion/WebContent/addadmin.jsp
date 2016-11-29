@@ -1,3 +1,4 @@
+﻿<!--管理员添加页面-->
 <%@ page contentType="text/html;charset=UTF-8" 
 	import="com.bean.UserBean,com.entity.AdminInfo,java.util.*"
 %>
